@@ -51,5 +51,6 @@ class Program
 ```
 # OUTPUT:
 ![alt text](image.png)
+![alt text](image-1.png)
 # RESULT:
 Thus the C# program to get the values from the user using structure and store it in a file in a specific path using file stream concept executed successfully.
