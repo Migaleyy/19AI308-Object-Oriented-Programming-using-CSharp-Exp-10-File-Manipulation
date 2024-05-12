@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\bin\Debug\net8.0\Exp-10.exe
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\bin\Debug\net8.0\Exp-10.deps.json
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\bin\Debug\net8.0\Exp-10.runtimeconfig.json
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\bin\Debug\net8.0\Exp-10.dll
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\bin\Debug\net8.0\Exp-10.pdb
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.sourcelink.json
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.dll
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\refint\Exp-10.dll
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.pdb
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\Exp-10.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Desktop\C#-10\Exp-10\obj\Debug\net8.0\ref\Exp-10.dll
